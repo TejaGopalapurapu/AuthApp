@@ -11,6 +11,7 @@ function Login() {
       navigate('/home');
     } else {
       alert('Invalid credentials');
+      
     }
   };
 
